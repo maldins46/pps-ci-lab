@@ -1,4 +1,3 @@
-plugins {
-    develop
+plugins { 
     java
 }
