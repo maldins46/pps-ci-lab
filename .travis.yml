@@ -2,3 +2,4 @@ matrix:
   include:
     - language: java
     - language: scala
+    - language: jvm
