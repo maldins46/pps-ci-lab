@@ -1,4 +1,5 @@
 plugins {
+    develop
     kotlin("jvm") version "1.3.72"
 }
 
@@ -8,4 +9,7 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib"))
+
+    java
+    develop
 }
