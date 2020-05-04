@@ -11,5 +11,4 @@ dependencies {
     implementation(kotlin("stdlib"))
 
     java
-    develop
 }
