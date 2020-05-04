@@ -3,7 +3,7 @@ package pps.worker;
 /**
  * Worker is a simple entity which performs a task.
  */
-interface Worker {
+public interface Worker {
     /**
      * Runs its task.
      */
